@@ -1,1 +1,1 @@
-![SELAMAT PAGI](https://github.com/xdefrag/xdefrag/raw/master/selamatpagi.png)
+Everything was moved to https://git.sr.ht/~xdefrag.
